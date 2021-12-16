@@ -1,0 +1,20 @@
+source 'https://rubygems.org'
+
+gem 'sinatra'
+gem 'sinatra-contrib'
+
+# gem 'activerecord'
+# gem 'sinatra-activerecord'
+
+gem 'json'
+gem 'pg'
+
+gem 'sequel'
+gem 'sequel-seed'
+
+gem 'rack'        #, '~> 1.5'
+gem 'rake'
+
+gem 'dotenv'
+
+gem "puma", "~> 5.5"
